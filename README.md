@@ -113,36 +113,10 @@ test.py
 ```
 You can also write your prompts in **test.py** file to proceed
 
+
 ---
 ## 🧪 Results
 
-### ✅ Normal Input
-
-```bash
-curl -X POST http://localhost:8000/process -H "Content-Type: text/plain" -d "Hello world"
-```
-
-Response:
-
-```json
-{
-  "message": "Task submitted",
-  "task_id": "4f14a0ae-3e26-4d9f-80fd-a3ad24e69f23"
-}
-```
-
-### ⚠️ Sensitive Input (password)
-
-```bash
-curl -X POST http://localhost:8000/process -H "Content-Type: text/plain" -d "My password is 1234"
-```
-
-Creates a new alert file in `error_reports/` such as:
-
-```text
-Time: 2025-05-17T15:43:01.123456
-Alert Type: Personal Data
-Description: User sent sensitive data: My password is 1234
-```
-
+### ⚙️ Test results
+![Test results](images/test.png)
 ---
