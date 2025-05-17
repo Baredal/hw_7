@@ -1,0 +1,8 @@
+2025-05-17 14:01:25,878 [INFO] [INPUT] From 172.18.0.1: 'HeLlO WORld'
+2025-05-17 14:01:25,880 [INFO] [TASK] Submitted task ID: 96ce7f7a-8e29-4068-8fd8-910194e036ba for input: 'HeLlO WORld'
+2025-05-17 14:01:25,888 [INFO] [INPUT] From 172.18.0.1: 'this is a fraud case'
+2025-05-17 14:01:25,891 [INFO] [TASK] Submitted task ID: 0f21f02e-b7d8-4f29-ab66-330232c1de4a for input: 'this is a fraud case'
+2025-05-17 14:01:25,899 [INFO] [INPUT] From 172.18.0.1: 'my password is 1234'
+2025-05-17 14:01:25,901 [INFO] [TASK] Submitted task ID: 23754c16-1e9f-46c7-8d0c-5448e1e1aeea for input: 'my password is 1234'
+2025-05-17 14:01:25,910 [INFO] [INPUT] From 172.18.0.1: ''
+2025-05-17 14:01:25,912 [INFO] [TASK] Submitted task ID: ffb0eb8d-d91f-4830-8d14-4e2f373c2527 for input: ''
