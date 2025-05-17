@@ -124,7 +124,7 @@ You can also write your prompts in **test.py** file to proceed
 ![Logs results](images/logs.png)
 
 ### ⚙️ Alert results
-![Alert results](images/alert.png)
+![Alert results](images/alerts.png)
 
 ### ⚙️ Worker 1 results
 ![Worker 1 results](images/worker_1.png)
@@ -133,5 +133,7 @@ You can also write your prompts in **test.py** file to proceed
 ![Worker 2 results](images/worker_2.png)
 
 ---
+
 As we can see all works fine, workers do their job independenly, simultaneously and asynchronously. Also each worker has his own logs which informs input text and output result
+
 ---
